@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-104672995-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-104672995-1');
+	</script>
+
+	<meta charset="UTF-8">
+	<title>Snake</title>
+	<link href='http://fonts.googleapis.com/css?family=Lato:400italic,700,800,400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+	<meta name="viewport" content="width=768" />
+	<link rel="shortcut icon" href="images/favicon.png">
+	<meta property="og:title" content="Snake" />
+	<meta property="og:image" content="https://imgur.com/9nn7xbQ" />
+	<meta property="og:image:width" content="270" />
+	<meta property="og:image:height" content="480" />
+	<script src="soundmanager2-setup.js"></script>
+	<script src="soundmanager2-jsmin.js"></script>
+</head>
+
+<body id='body'>
+	<div id="fb-root"></div>
+	<div id="fb-root"></div>
+	<script>
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<div id='video'>
+		<div class="lheader">
+			<div class="fb-like" data-href="https://colorfulshapetappergames.github.io/snake/" data-layout="button" data-action="like"
+			    data-size="small" data-show-faces="false" data-share="true" style="vertical-align:top;zoom:1;*display:inline">
+			</div>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-via="shape_creator" data-size="normal" data-hashtags="androidgame">Tweet</a>
+			<script>
+				! function (d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0],
+						p = /^http:/.test(d.location) ? 'http' : 'https';
+					if (!d.getElementById(id)) {
+						js = d.createElement(s);
+						js.id = id;
+						js.src = p + '://platform.twitter.com/widgets.js';
+						fjs.parentNode.insertBefore(js, fjs);
+					}
+				}(document, 'script', 'twitter-wjs');
+			</script>
+		</div>
+
+		<div class="header">
+			<a href="mailto:colorfulshapetappergames@gmail.com">Contact</a> &nbsp;
+			<a href="http://colorfulshapetappergames.github.io/privacy/">Privacy</a>
+		</div>
+		<div id="adiv" align="left">
+<pre><br>Use arrow keys or WASD to move. Press SPACE to pause. Press ESC to exit to the main menu.
+		<br>Be sure to try out the level editor.</b>
+		<br>Editor keys:
+	1 -> 6, 7 -> = : select block type
+	Primary	                  Secondary
+	1: empty block            7: empty block       L: toggle link mode
+	2: wall                   8: wall              M: set link mode: pair, chain, star
+	3: bomb                   9: bomb              R: toggle run
+	4: food                   0: food              
+	5: teleporter             -: teleporter        Q: set cursor type
+	6: inverter               =: inverter          [ ] or mouse scroll: set cursor size
+		</pre>
+		</div>
+		<div align="center" id="embed-html"></div>
+		<script type="text/javascript" src="html/html.nocache.js"></script>
+		<script>
+			function handleMouseDown(evt) {
+				evt.preventDefault();
+				evt.stopPropagation();
+				evt.target.style.cursor = 'default';
+			}
+
+			function handleMouseUp(evt) {
+				evt.preventDefault();
+				evt.stopPropagation();
+				evt.target.style.cursor = '';
+			}
+			document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+			document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+		</script>
+</body>
+
+
+</html>

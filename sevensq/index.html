@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>7 Squared</title>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-104672995-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-104672995-1');
+	</script>
+
+	<link href='http://fonts.googleapis.com/css?family=Lato:400italic,700,800,400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+	<meta name="viewport" content="width=768" />
+	<link rel="shortcut icon" href="images/favicon.png">
+	<meta property="og:title" content="7 Squared, a colorful match 4+ game" />
+	<meta property="og:image" content="http://i.imgur.com/UGILNPr.gif" />
+	<meta property="og:image:width" content="270" />
+	<meta property="og:image:height" content="480" />
+	<script src="soundmanager2-setup.js"></script>
+	<script src="soundmanager2-jsmin.js"></script>
+
+</head>
+
+<body id='body'>
+	<div id="fb-root"></div>
+	<div id="fb-root"></div>
+	<script>
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<div id='video'>
+		<div class="lheader">
+			<div class="fb-like" data-href="https://colorfulshapetappergames.github.io/sevensq/" data-layout="button" data-action="like"
+			    data-size="small" data-show-faces="false" data-share="true" style="vertical-align:top;zoom:1;*display:inline">
+			</div>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-via="shape_creator" data-size="normal" data-hashtags="androidgame">Tweet</a>
+			<script>
+				! function (d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0],
+						p = /^http:/.test(d.location) ? 'http' : 'https';
+					if (!d.getElementById(id)) {
+						js = d.createElement(s);
+						js.id = id;
+						js.src = p + '://platform.twitter.com/widgets.js';
+						fjs.parentNode.insertBefore(js, fjs);
+					}
+				}(document, 'script', 'twitter-wjs');
+			</script>
+		</div>
+		<div id='adiv'>
+			<a href="https://goo.gl/Je1miH" target="_blank">
+				<img id="google_playstore" class="app_store" src="images/google-play-badge.svg">
+			</a>
+		</div>
+
+		<div class="header">
+			<a href="mailto:colorfulshapetappergames@gmail.com">Contact</a> &nbsp;
+			<a href="http://colorfulshapetappergames.github.io/privacy/">Privacy</a>
+		</div>
+
+		<div align="center" id="embed-html"></div>
+		<script type="text/javascript" src="html/html.nocache.js"></script>
+		<br>
+		<div id='adiv'>
+			<div id="gdx1" class="credits">Built with</div>
+			<div id="kenney1" class="credits">Assets by</div>
+		</div>
+		<br>
+		<div id='adiv'>
+			<a href="https://libgdx.badlogicgames.com/index.html">
+				<img id="gdx" class="credits" src="images/gdx-logo.png">
+			</a>
+			<a href="https://kenney.nl">
+				<img id="kenney" class="credits" src="images/kenney-logo.png">
+			</a>
+		</div>
+		<br>
+		<script>
+			function handleMouseDown(evt) {
+				evt.preventDefault();
+				evt.stopPropagation();
+				evt.target.style.cursor = 'default';
+			}
+
+			function handleMouseUp(evt) {
+				evt.preventDefault();
+				evt.stopPropagation();
+				evt.target.style.cursor = '';
+			}
+			document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+			document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+		</script>
+</body>
+
+
+</html>

@@ -1,0 +1,739 @@
+sheet_white1x.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrowDown
+  rotate: false
+  xy: 50, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+arrowLeft
+  rotate: false
+  xy: 50, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+arrowRight
+  rotate: false
+  xy: 0, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+arrowUp
+  rotate: false
+  xy: 0, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+audioOff
+  rotate: false
+  xy: 0, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+audioOn
+  rotate: false
+  xy: 0, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+backward
+  rotate: false
+  xy: 0, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+barsHorizontal
+  rotate: false
+  xy: 0, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+barsVertical
+  rotate: false
+  xy: 0, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+basket
+  rotate: false
+  xy: 0, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+button1
+  rotate: false
+  xy: 0, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+button3
+  rotate: false
+  xy: 250, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonA
+  rotate: false
+  xy: 500, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonB
+  rotate: false
+  xy: 500, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonL
+  rotate: false
+  xy: 500, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonL1
+  rotate: false
+  xy: 500, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonL2
+  rotate: false
+  xy: 450, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonR
+  rotate: false
+  xy: 450, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonR1
+  rotate: false
+  xy: 450, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonR2
+  rotate: false
+  xy: 450, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonSelect
+  rotate: false
+  xy: 450, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonStart
+  rotate: false
+  xy: 450, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonX
+  rotate: false
+  xy: 450, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonY
+  rotate: false
+  xy: 450, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+cart
+  rotate: false
+  xy: 450, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+checkmark
+  rotate: false
+  xy: 450, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+contrast
+  rotate: false
+  xy: 400, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 400, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 400, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 400, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+downLeft
+  rotate: false
+  xy: 400, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+downRight
+  rotate: false
+  xy: 400, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exclamation
+  rotate: false
+  xy: 400, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exitLeft
+  rotate: false
+  xy: 400, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exitRight
+  rotate: false
+  xy: 400, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+export
+  rotate: false
+  xy: 400, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fastForward
+  rotate: false
+  xy: 350, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+film
+  rotate: false
+  xy: 350, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+forward
+  rotate: false
+  xy: 350, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+gamepad
+  rotate: false
+  xy: 350, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+gamepad1
+  rotate: false
+  xy: 350, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+gamepad2
+  rotate: false
+  xy: 350, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+gamepad3
+  rotate: false
+  xy: 350, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+gamepad4
+  rotate: false
+  xy: 350, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+gear
+  rotate: false
+  xy: 350, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 350, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+import
+  rotate: false
+  xy: 300, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+information
+  rotate: false
+  xy: 300, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+joystick
+  rotate: false
+  xy: 300, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+joystickLeft
+  rotate: false
+  xy: 300, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+joystickRight
+  rotate: false
+  xy: 300, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+joystickUp
+  rotate: false
+  xy: 300, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+larger
+  rotate: false
+  xy: 300, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+leaderboardsComplex
+  rotate: false
+  xy: 300, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+leaderboardsSimple
+  rotate: false
+  xy: 300, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+locked
+  rotate: false
+  xy: 300, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+massiveMultiplayer
+  rotate: false
+  xy: 250, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+medal1
+  rotate: false
+  xy: 250, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+medal2
+  rotate: false
+  xy: 250, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+menuGrid
+  rotate: false
+  xy: 250, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+menuList
+  rotate: false
+  xy: 250, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+minus
+  rotate: false
+  xy: 250, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 250, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+multiplayer
+  rotate: false
+  xy: 500, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 250, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 250, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 200, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 200, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 200, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+phone
+  rotate: false
+  xy: 200, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 200, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 200, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+previous
+  rotate: false
+  xy: 200, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+question
+  rotate: false
+  xy: 200, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 200, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+rewind
+  rotate: false
+  xy: 200, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+save
+  rotate: false
+  xy: 150, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+scrollHorizontal
+  rotate: false
+  xy: 150, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+scrollVertical
+  rotate: false
+  xy: 150, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+share1
+  rotate: false
+  xy: 150, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+share2
+  rotate: false
+  xy: 150, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+signal1
+  rotate: false
+  xy: 150, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+signal2
+  rotate: false
+  xy: 150, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+signal3
+  rotate: false
+  xy: 150, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+singleplayer
+  rotate: false
+  xy: 150, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+smaller
+  rotate: false
+  xy: 150, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 100, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+stop
+  rotate: false
+  xy: 100, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+tablet
+  rotate: false
+  xy: 100, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 100, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+trashcan
+  rotate: false
+  xy: 100, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+trashcanOpen
+  rotate: false
+  xy: 100, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 100, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+unlocked
+  rotate: false
+  xy: 100, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 100, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+upLeft
+  rotate: false
+  xy: 100, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+upRight
+  rotate: false
+  xy: 50, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+video
+  rotate: false
+  xy: 50, 400
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+warning
+  rotate: false
+  xy: 50, 350
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+wrench
+  rotate: false
+  xy: 50, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zoom
+  rotate: false
+  xy: 50, 250
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zoomDefault
+  rotate: false
+  xy: 50, 200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zoomIn
+  rotate: false
+  xy: 50, 150
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zoomOut
+  rotate: false
+  xy: 50, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
